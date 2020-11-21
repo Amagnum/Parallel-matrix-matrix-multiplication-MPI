@@ -17,7 +17,7 @@ A simple MPI program to compute the matrix matrix multiplication. Splitting the 
 Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz <br>
 CPU(s):              8 <br>
 Thread(s) per core:  2 <br>
-![alt approach](https://github.com/Amagnum/Dot-Product-of-2-vectors-MPI/blob/main/img/Dot%20Product%20of%202%20Vectors.png)
+![alt approach](https://github.com/Amagnum/Matrix-matrix-multiplication-MPI/blob/main/img/Matrix-Matrix%20Multiplication.png)
 
 ### Compile & run the code:
 ```
